@@ -9,6 +9,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.16.11"
+    "@astrojs/mdx": "^4.3.13",
+    "@astrojs/netlify": "^6.6.4",
+    "@astrojs/svelte": "^7.2.5",
+    "astro": "^5.16.11",
+    "svelte": "^5.46.4",
+    "typescript": "^5.9.3"
   }
 }
